@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGCdso2hLlU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abel\\Desktop\\Repo2\\Academy.Payments.API\\Academy.Payments.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

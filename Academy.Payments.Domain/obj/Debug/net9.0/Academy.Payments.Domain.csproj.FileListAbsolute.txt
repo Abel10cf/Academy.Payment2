@@ -1,0 +1,12 @@
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\bin\Debug\net9.0\Academy.Payments.Domain.deps.json
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\bin\Debug\net9.0\Academy.Payments.Domain.dll
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\bin\Debug\net9.0\Academy.Payments.Domain.pdb
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\obj\Debug\net9.0\Academy.Payments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\obj\Debug\net9.0\Academy.Payments.Domain.AssemblyInfoInputs.cache
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\obj\Debug\net9.0\Academy.Payments.Domain.AssemblyInfo.cs
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\obj\Debug\net9.0\Academy.Payments.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\obj\Debug\net9.0\Academy.Payments.Domain.sourcelink.json
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\obj\Debug\net9.0\Academy.Payments.Domain.dll
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\obj\Debug\net9.0\refint\Academy.Payments.Domain.dll
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\obj\Debug\net9.0\Academy.Payments.Domain.pdb
+C:\Users\Abel\Desktop\Repo2\Academy.Payments.Domain\obj\Debug\net9.0\ref\Academy.Payments.Domain.dll
