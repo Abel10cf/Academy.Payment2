@@ -5,6 +5,11 @@ out/
 Debug/
 Release/
 
+**/bin/
+**/obj/
+**/.vs/
+
+
 # Archivos temporales de Visual Studio
 .vs/
 *.user
