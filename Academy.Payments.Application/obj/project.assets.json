@@ -11,16 +11,6 @@
         "runtime": {
           "bin/placeholder/Academy.Payments.Domain.dll": {}
         }
-      },
-      "Academy.Payments.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Academy.Payments.Infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Academy.Payments.Infrastructure.dll": {}
-        }
       }
     }
   },
@@ -29,17 +19,11 @@
       "type": "project",
       "path": "../Academy.Payments.Domain/Academy.Payments.Domain.csproj",
       "msbuildProject": "../Academy.Payments.Domain/Academy.Payments.Domain.csproj"
-    },
-    "Academy.Payments.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../Academy.Payments.Infrastructure/Academy.Payments.Infrastructure.csproj",
-      "msbuildProject": "../Academy.Payments.Infrastructure/Academy.Payments.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Academy.Payments.Domain >= 1.0.0",
-      "Academy.Payments.Infrastructure >= 1.0.0"
+      "Academy.Payments.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -76,9 +60,6 @@
           "projectReferences": {
             "C:\\Users\\Abel\\Documents\\Programación\\Net\\Pagos\\Academy.Payments\\Academy.Payments.Domain\\Academy.Payments.Domain.csproj": {
               "projectPath": "C:\\Users\\Abel\\Documents\\Programación\\Net\\Pagos\\Academy.Payments\\Academy.Payments.Domain\\Academy.Payments.Domain.csproj"
-            },
-            "C:\\Users\\Abel\\Documents\\Programación\\Net\\Pagos\\Academy.Payments\\Academy.Payments.Infrastructure\\Academy.Payments.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Abel\\Documents\\Programación\\Net\\Pagos\\Academy.Payments\\Academy.Payments.Infrastructure\\Academy.Payments.Infrastructure.csproj"
             }
           }
         }
