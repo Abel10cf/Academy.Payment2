@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Academy.Payments.Application\Academy.Payments.Application.csproj" />
+  </ItemGroup>
+
 </Project>

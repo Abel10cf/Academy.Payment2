@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Academy.Payments.Domain\Academy.Payments.Domain.csproj" />
-    <ProjectReference Include="..\Academy.Payments.Infrastructure\Academy.Payments.Infrastructure.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
