@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M2vKC26lz+I=",
+  "dgSpecHash": "CkHWIYrlNS8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abel\\Desktop\\Repo2\\Academy.Payments.Tests\\Academy.Payments.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Abel\\Documents\\Programación\\Net\\Pagos\\Academy.Payments\\Academy.Payments.Tests\\Academy.Payments.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abel\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Abel\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

@@ -10,3 +10,15 @@ C:\Users\Abel\Desktop\Repo2\Academy.Payments.Infrastructure\obj\Debug\net9.0\Aca
 C:\Users\Abel\Desktop\Repo2\Academy.Payments.Infrastructure\obj\Debug\net9.0\refint\Academy.Payments.Infrastructure.dll
 C:\Users\Abel\Desktop\Repo2\Academy.Payments.Infrastructure\obj\Debug\net9.0\Academy.Payments.Infrastructure.pdb
 C:\Users\Abel\Desktop\Repo2\Academy.Payments.Infrastructure\obj\Debug\net9.0\ref\Academy.Payments.Infrastructure.dll
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\bin\Debug\net9.0\Academy.Payments.Infrastructure.deps.json
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\bin\Debug\net9.0\Academy.Payments.Infrastructure.dll
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\bin\Debug\net9.0\Academy.Payments.Infrastructure.pdb
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\obj\Debug\net9.0\Academy.Payments.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\obj\Debug\net9.0\Academy.Payments.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\obj\Debug\net9.0\Academy.Payments.Infrastructure.AssemblyInfo.cs
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\obj\Debug\net9.0\Academy.Payments.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\obj\Debug\net9.0\Academy.Payments.Infrastructure.sourcelink.json
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\obj\Debug\net9.0\Academy.Payments.Infrastructure.dll
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\obj\Debug\net9.0\refint\Academy.Payments.Infrastructure.dll
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\obj\Debug\net9.0\Academy.Payments.Infrastructure.pdb
+C:\Users\Abel\Documents\Programación\Net\Pagos\Academy.Payments\Academy.Payments.Infrastructure\obj\Debug\net9.0\ref\Academy.Payments.Infrastructure.dll
