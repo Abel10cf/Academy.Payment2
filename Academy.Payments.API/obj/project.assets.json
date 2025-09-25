@@ -111,35 +111,9 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Academy.Payments.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Academy.Payments.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Academy.Payments.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Academy.Payments.Application.dll": {}
-        }
-      },
-      "Academy.Payments.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Academy.Payments.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Academy.Payments.Domain.dll": {}
-        }
-      },
       "Academy.Payments.Presentation/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Academy.Payments.Application": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/Academy.Payments.Presentation.dll": {}
         },
@@ -487,16 +461,6 @@
         "swashbuckle.aspnetcore.swaggerui.8.0.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
-    },
-    "Academy.Payments.Application/1.0.0": {
-      "type": "project",
-      "path": "../Academy.Payments.Application/Academy.Payments.Application.csproj",
-      "msbuildProject": "../Academy.Payments.Application/Academy.Payments.Application.csproj"
-    },
-    "Academy.Payments.Domain/1.0.0": {
-      "type": "project",
-      "path": "../Academy.Payments.Domain/Academy.Payments.Domain.csproj",
-      "msbuildProject": "../Academy.Payments.Domain/Academy.Payments.Domain.csproj"
     },
     "Academy.Payments.Presentation/1.0.0": {
       "type": "project",
